@@ -1,0 +1,43 @@
+#body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+    background: 30px;
+    padding: 20px;
+    background-color: orange;
+}
+
+#paragraph {
+    color: green;
+    background: rgb(223, 209, 190);
+    padding: 30px;
+    
+
+}
+
+#randoScore {
+    background-color: limegreen;
+    padding-bottom: 80px;
+}
+
+#win {
+    background-color: yellow;
+    padding-bottom: 20px;
+}
+
+#loss {
+    background-color: yellow;
+    padding-bottom: 20px;
+}
+
+#total {
+    background-color: aquamarine;
+}
+
+#user {
+    background-color: aquamarine;
+    padding-bottom: 80px;
+}
