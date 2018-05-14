@@ -65,7 +65,7 @@ function clicker() {
 
         }
         
-        if (topher > compTotal) {
+        else if (topher > compTotal) {
             alert("YOU LOSE!")
             losses = losses + 1
             $("#counter2").text(losses)
@@ -85,7 +85,7 @@ function clicker() {
             restart()
         }
         
-        if (topher2 > compTotal) {
+        else if (topher2 > compTotal) {
             alert("YOU LOSE!")
             losses++
             $("#counter2").text(losses)
@@ -106,7 +106,7 @@ function clicker() {
             restart()
         }
         
-        if (topher3 > compTotal) {
+        else if (topher3 > compTotal) {
             alert("YOU LOSE!")
             losses++
             $("#counter2").text(losses)
@@ -127,7 +127,7 @@ function clicker() {
             restart()
         }
         
-        if (topher4 > compTotal) {
+        else if (topher4 > compTotal) {
             alert("YOU LOSE!")
             losses++
             $("#counter2").text(losses)
